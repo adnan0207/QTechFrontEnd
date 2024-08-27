@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h1{
+    background-color: grey;
+    color: white;
+}
+h3{
+    color: white;
+}
+.odd{
+    color: coral;
+}
+.even{
+    color: forestgreen;
+}
